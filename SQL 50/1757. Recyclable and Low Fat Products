@@ -1,6 +1,5 @@
 Select product_id 
-from 
-Products 
+from Products 
 where low_fats = 'Y' and recyclable = 'Y';
 
 
